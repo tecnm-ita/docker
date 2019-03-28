@@ -1,2 +1,4 @@
 # Docker
-this is an active project at the institute developed by Rene Lee Ramirez &amp; Ivan Gerardo Caldera Hermosillo with Docker
+## Our project
+### We at the institute
+- We at the institute, where planning to release a new Student control system
