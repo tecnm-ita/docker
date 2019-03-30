@@ -1,1 +1,10 @@
 version: '3.6'
+services:
+  web:
+    image: apache : latest
+    ports:
+      - "81-90":"80"
+    volumes:
+      - ../html : /var/www/html
+    deploy:
+      replicas: 10
